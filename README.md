@@ -3,7 +3,7 @@ Kibra Metaİtem Çanta
 
 # Use qb_inventory/html/js/app.js 
 
-[CODE
+
 ```javascript 
  } else if (itemData.name == "cantax") {
             $(".item-info-title").html('<p>'+itemData.label+'</p>')
