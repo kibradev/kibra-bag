@@ -3,7 +3,7 @@ TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
 ESX.RegisterUsableItem("cantax", function (source, item)
     local _source = source
-    TriggerClientEvent("K8.CNT.USE", source)
+    TriggerClientEvent("KIBRA.CNT.USE", source)
 end)
 
 RegisterCommand("cantaver", 
