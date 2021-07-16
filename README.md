@@ -1,4 +1,4 @@
-# k8-canta
+# kibra-canta
 Kibra Metaİtem Çanta
 
 # Use qb_inventory/html/js/app.js 
